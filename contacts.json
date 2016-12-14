@@ -21,6 +21,7 @@
     "users_total": 20329
   },
   {
+    "language": "en",
     "name": "More technical, developer chat",
     "url": "irc://irc.oftc.net/#osm-dev"
   },
@@ -53,7 +54,10 @@
     "url": "irc://irc.oftc.net/#osm-ar"
   },
   {
+    "active": false,
+    "language": "ru",
     "name": "Belarussian OSM channel",
+    "replaced_by": "https://telegram.me/bygis",
     "url": "irc://irc.tut.by/#osm"
   },
   {
@@ -1108,12 +1112,15 @@
     "url": "https://telegram.me/ruosm"
   },
   {
+    "country": "by",
     "direct": false,
+    "language": "ru",
     "name": "Belarusian byGIS Telegram group",
     "url": "https://telegram.me/bygis"
   },
   {
     "direct": false,
+    "language": "ru",
     "name": "Russian OSM Forum discussion Telegram",
     "url": "https://telegram.me/ruosm_forum"
   }

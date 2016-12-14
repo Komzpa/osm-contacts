@@ -1,0 +1,1120 @@
+[
+  {
+    "direct": true,
+    "name": "OpenStreetMap.org private messages",
+    "url": "https://www.openstreetmap.org/user/1/inbox"
+  },
+  {
+    "direct": true,
+    "name": "OpenStreetMap.org notes",
+    "url": "https://www.openstreetmap.org/#layers=N"
+  },
+  {
+    "direct": false,
+    "name": "OpenStreetMap.org diaries",
+    "url": "https://www.openstreetmap.org/diary"
+  },
+  {
+    "direct": false,
+    "name": "OpenStreetMap.org forum",
+    "url": "https://forum.openstreetmap.org/",
+    "users_total": 20329
+  },
+  {
+    "name": "More technical, developer chat",
+    "url": "irc://irc.oftc.net/#osm-dev"
+  },
+  {
+    "name": "Humanitarian OpenStreetMap Team chat",
+    "url": "irc://irc.oftc.net/#hot"
+  },
+  {
+    "name": "JOSM chat",
+    "url": "irc://irc.oftc.net/#josm"
+  },
+  {
+    "name": "More general GIS chit-chat",
+    "url": "irc://irc.oftc.net/#geo"
+  },
+  {
+    "name": "Nominatim specific chat / support",
+    "url": "irc://irc.oftc.net/#osm-nominatim"
+  },
+  {
+    "name": "OpenRailwayMap specific chat",
+    "url": "irc://irc.oftc.net/#OpenRailwayMap"
+  },
+  {
+    "name": "Australian OSM channel",
+    "url": "irc://irc.oftc.net/#osm-au"
+  },
+  {
+    "name": "Argentina OSM channel",
+    "url": "irc://irc.oftc.net/#osm-ar"
+  },
+  {
+    "name": "Belarussian OSM channel",
+    "url": "irc://irc.tut.by/#osm"
+  },
+  {
+    "name": "Belgian OSM channel",
+    "url": "irc://irc.oftc.net/#osm-be"
+  },
+  {
+    "name": "Bosnian and Herzegovinian OSM channel",
+    "url": "irc://irc.freenode.net/#osm-ba"
+  },
+  {
+    "name": "Brazilian OSM channel",
+    "url": "irc://irc.oftc.net/#osm-br"
+  },
+  {
+    "name": "British OSM channel",
+    "url": "irc://irc.oftc.net/#osm-gb"
+  },
+  {
+    "name": "Canadian OSM channel",
+    "url": "irc://irc.oftc.net/#osm-ca"
+  },
+  {
+    "name": "Chinese OSM channel",
+    "url": "irc://irc.oftc.net/#osm-zh"
+  },
+  {
+    "name": "Croatian OSM channel",
+    "url": "irc://irc.freenode.org/#osm-hr"
+  },
+  {
+    "name": "Danish OSM channel",
+    "url": "irc://irc.oftc.net/#osm-dk"
+  },
+  {
+    "name": "Dutch OSM channel",
+    "url": "irc://irc.oftc.net/#osm-nl"
+  },
+  {
+    "name": "English (additionally to/#osm) channel",
+    "url": "irc://irc.freenode.org/#openstreetmap"
+  },
+  {
+    "name": "Finnish OSM channel",
+    "url": "irc://irc.oftc.net/#osm-fi"
+  },
+  {
+    "name": "French OSM channel",
+    "url": "irc://irc.oftc.net/#osm-fr"
+  },
+  {
+    "name": "German OSM channel",
+    "url": "irc://irc.oftc.net/#osm-de"
+  },
+  {
+    "name": "Greek OSM channel",
+    "url": "irc://irc.oftc.net/#osm-gr"
+  },
+  {
+    "name": "Hungarian OSM channel",
+    "url": "irc://irc.oftc.net/#osm-hu"
+  },
+  {
+    "name": "Irish OSM channel",
+    "url": "irc://irc.oftc.net/#osm-ie"
+  },
+  {
+    "name": "Israeli OSM channel",
+    "url": "irc://irc.oftc.net/#osm-il"
+  },
+  {
+    "name": "Italian OSM channel",
+    "url": "irc://irc.oftc.net/#osm-it"
+  },
+  {
+    "name": "Japanese OSM channel",
+    "url": "irc://irc.oftc.net/#osm-ja"
+  },
+  {
+    "name": "Kenyan OSM channel",
+    "url": "irc://irc.oftc.net/#osm-ke"
+  },
+  {
+    "name": "Latin American OSM channel",
+    "url": "irc://irc.oftc.net/#osm-latam"
+  },
+  {
+    "name": "Lao OSM channel",
+    "url": "irc://irc.oftc.net/#osm-lo"
+  },
+  {
+    "name": "Lithuanian OSM channel",
+    "url": "irc://irc.oftc.net/#osm-lt"
+  },
+  {
+    "name": "Latvian OSM channel",
+    "url": "irc://irc.oftc.net/#osm-lv"
+  },
+  {
+    "name": "Nicaraguan OSM channel",
+    "url": "irc://irc.oftc.net/#osm-ni"
+  },
+  {
+    "name": "Peruvian OSM",
+    "url": "irc://irc.oftc.net/#osm-pe"
+  },
+  {
+    "name": "Polish OSM channel",
+    "url": "irc://irc.oftc.net/#osm-pl"
+  },
+  {
+    "name": "Portuguese OSM channel",
+    "url": "irc://irc.oftc.net/#osm-pt"
+  },
+  {
+    "name": "Russian OSM channel",
+    "url": "irc://irc.oftc.net/#osm-ru"
+  },
+  {
+    "name": "Serbian OSM channel",
+    "url": "irc://irc.oftc.net/#osm-rs"
+  },
+  {
+    "name": "Slovak OSM/Freemap Slovakia channel (Use Jabber/GTalk conference room)",
+    "url": "irc://irc.ircnet.com/#freemap.sk"
+  },
+  {
+    "name": "Spanish OSM channel",
+    "url": "irc://irc.oftc.net/#osm-es"
+  },
+  {
+    "name": "Swedish OSM channel",
+    "url": "irc://irc.oftc.net/#osm.se"
+  },
+  {
+    "name": "Swiss OSM channel",
+    "url": "irc://irc.oftc.net/#osm-ch"
+  },
+  {
+    "name": "Taiwan OSM channel",
+    "url": "irc://irc.oftc.net/#osm-tw"
+  },
+  {
+    "name": "Turkish OSM channel",
+    "url": "irc://irc.oftc.net/#osm-tr"
+  },
+  {
+    "name": "US-American (United States of America) channel",
+    "url": "irc://irc.oftc.net/#osm-us"
+  },
+  {
+    "name": "Venezuela OSM channel",
+    "url": "irc://irc.oftc.net/#osm-ve"
+  },
+  {
+    "name": "OSM RU Board",
+    "url": "mailto:board@openstreetmap.ru"
+  },
+  {
+    "description": "Accessibility",
+    "name": "Accessibility",
+    "url": "https://lists.openstreetmap.org/listinfo/accessibility"
+  },
+  {
+    "description": "OpenStreetMap Announcements",
+    "name": "Announce",
+    "url": "https://lists.openstreetmap.org/listinfo/announce"
+  },
+  {
+    "description": "<em>[no description available]</em>",
+    "name": "design",
+    "url": "https://lists.openstreetmap.org/listinfo/design"
+  },
+  {
+    "description": "OpenStreetMap developer discusssion",
+    "name": "dev",
+    "url": "https://lists.openstreetmap.org/listinfo/dev"
+  },
+  {
+    "description": "Discussions développeur OSM en français",
+    "name": "dev-fr",
+    "url": "https://lists.openstreetmap.org/listinfo/dev-fr"
+  },
+  {
+    "description": "Discussioni OpenStreetMap per sviluppatori - in italiano",
+    "name": "dev-italia",
+    "url": "https://lists.openstreetmap.org/listinfo/dev-italia"
+  },
+  {
+    "description": "Discussions on improving diversity in the OSM community ",
+    "name": "diversity-talk",
+    "url": "https://lists.openstreetmap.org/listinfo/diversity-talk"
+  },
+  {
+    "description": "Discussion of geocoding",
+    "name": "Geocoding",
+    "url": "https://lists.openstreetmap.org/listinfo/geocoding"
+  },
+  {
+    "description": "Explorations of an OpenStreetMap Approach to Historic Mapping",
+    "name": "Historic",
+    "url": "https://lists.openstreetmap.org/listinfo/historic"
+  },
+  {
+    "description": "Humanitarian OpenStreetMap Team",
+    "name": "HOT",
+    "url": "https://lists.openstreetmap.org/listinfo/hot"
+  },
+  {
+    "description": "Important HOT announcements and updates only. Very low volume.",
+    "name": "Hot-announce",
+    "url": "https://lists.openstreetmap.org/listinfo/hot-announce"
+  },
+  {
+    "description": "Humanitarian OpenStreetMap Team en français",
+    "name": "Hot-francophone",
+    "url": "https://lists.openstreetmap.org/listinfo/hot-francophone"
+  },
+  {
+    "description": "<em>[no description available]</em>",
+    "name": "Imports",
+    "url": "https://lists.openstreetmap.org/listinfo/imports"
+  },
+  {
+    "description": "US Import Committee Discussion List",
+    "name": "Imports-us",
+    "url": "https://lists.openstreetmap.org/listinfo/imports-us"
+  },
+  {
+    "description": "<em>[no description available]</em>",
+    "name": "Jeography",
+    "url": "https://lists.openstreetmap.org/listinfo/jeography"
+  },
+  {
+    "description": "JOSM developer mailing list",
+    "name": "josm-dev",
+    "url": "https://lists.openstreetmap.org/listinfo/josm-dev"
+  },
+  {
+    "description": "<em>[no description available]</em>",
+    "name": "Learnosm-coord",
+    "url": "https://lists.openstreetmap.org/listinfo/learnosm-coord"
+  },
+  {
+    "description": "General discussions about alternative OSM licensing scenarios.",
+    "name": "Legal-general",
+    "url": "https://lists.openstreetmap.org/listinfo/legal-general"
+  },
+  {
+    "description": "Licensing and other legal discussions.",
+    "name": "legal-talk",
+    "url": "https://lists.openstreetmap.org/listinfo/legal-talk"
+  },
+  {
+    "description": "General discusion of topics relevant for (local) chapters of the OSM Foundation",
+    "name": "Local-chapters",
+    "url": "https://lists.openstreetmap.org/listinfo/local-chapters"
+  },
+  {
+    "description": "LoroDux developers",
+    "name": "LoroDux-dev",
+    "url": "https://lists.openstreetmap.org/listinfo/lorodux-dev"
+  },
+  {
+    "description": "MapCSS implementers and stylesheet authors",
+    "name": "Mapcss",
+    "url": "https://lists.openstreetmap.org/listinfo/mapcss"
+  },
+  {
+    "description": "MapRoulette general discussion and development",
+    "name": "MapRoulette",
+    "url": "https://lists.openstreetmap.org/listinfo/maproulette"
+  },
+  {
+    "description": "<em>[no description available]</em>",
+    "name": "Merkaartor",
+    "url": "https://lists.openstreetmap.org/listinfo/merkaartor"
+  },
+  {
+    "description": "This list has been discontinued.",
+    "name": "moderation",
+    "url": "https://lists.openstreetmap.org/listinfo/moderation"
+  },
+  {
+    "description": "Mailing list to discuss tagging and rendering hiking trails using the OpenStreetMap Database",
+    "name": "Openhiking",
+    "url": "https://lists.openstreetmap.org/listinfo/openhiking"
+  },
+  {
+    "description": "A list about OSM in a professional (commercial, government, non-profit) sectors",
+    "name": "osm-professional",
+    "url": "https://lists.openstreetmap.org/listinfo/osm-professional"
+  },
+  {
+    "description": "Discussion about OSM2World, the 3D renderer",
+    "name": "OSM2World",
+    "url": "https://lists.openstreetmap.org/listinfo/osm2world"
+  },
+  {
+    "description": "<em>[no description available]</em>",
+    "name": "Osm4j",
+    "url": "https://lists.openstreetmap.org/listinfo/osm4j"
+  },
+  {
+    "description": "The OSMF membership services working group",
+    "name": "OSMF-membership",
+    "url": "https://lists.openstreetmap.org/listinfo/osmf-membership"
+  },
+  {
+    "description": "Osmosis development",
+    "name": "osmosis-dev",
+    "url": "https://lists.openstreetmap.org/listinfo/osmosis-dev"
+  },
+  {
+    "description": "Mailing list to discuss Project OSRM",
+    "name": "OSRM-talk",
+    "url": "https://lists.openstreetmap.org/listinfo/osrm-talk"
+  },
+  {
+    "description": "outdoor and natural features",
+    "name": "Outdoor-natural",
+    "url": "https://lists.openstreetmap.org/listinfo/outdoor-natural"
+  },
+  {
+    "description": "<em>[no description available]</em>",
+    "name": "party",
+    "url": "https://lists.openstreetmap.org/listinfo/party"
+  },
+  {
+    "description": "Photon Geocoder",
+    "name": "Photon",
+    "url": "https://lists.openstreetmap.org/listinfo/photon"
+  },
+  {
+    "description": "Discussing photography with mapping, and OpenStreetView",
+    "name": "Photos",
+    "url": "https://lists.openstreetmap.org/listinfo/photos"
+  },
+  {
+    "description": "Potlatch development",
+    "name": "Potlatch-dev",
+    "url": "https://lists.openstreetmap.org/listinfo/potlatch-dev"
+  },
+  {
+    "description": "Discussion of rails port (web site) development",
+    "name": "rails-dev",
+    "url": "https://lists.openstreetmap.org/listinfo/rails-dev"
+  },
+  {
+    "description": "NO LONGER ACTIVE. Temporary forum for technical discussion of process, tools and functionality for rebuilding the OSM database ready for ODbL change-over",
+    "name": "Rebuild",
+    "url": "https://lists.openstreetmap.org/listinfo/rebuild"
+  },
+  {
+    "description": "<em>[no description available]</em>",
+    "name": "Routing",
+    "url": "https://lists.openstreetmap.org/listinfo/routing"
+  },
+  {
+    "description": "Planning for SotM Asia",
+    "name": "Sotm-asia",
+    "url": "https://lists.openstreetmap.org/listinfo/sotm-asia"
+  },
+  {
+    "description": "Fundraising, planning and strategy for OSMF",
+    "name": "Strategic",
+    "url": "https://lists.openstreetmap.org/listinfo/strategic"
+  },
+  {
+    "description": "Tag discussion, strategy and related tools",
+    "name": "Tagging",
+    "url": "https://lists.openstreetmap.org/listinfo/tagging"
+  },
+  {
+    "description": "Taginfo Development",
+    "name": "Taginfo-dev",
+    "url": "https://lists.openstreetmap.org/listinfo/taginfo-dev"
+  },
+  {
+    "description": "OpenStreetMap contributor and user discussion",
+    "name": "talk",
+    "url": "https://lists.openstreetmap.org/listinfo/talk"
+  },
+  {
+    "description": "OSM Afghanistan",
+    "name": "Talk-af",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-af"
+  },
+  {
+    "description": "OSM in Africa",
+    "name": "Talk-africa",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-africa"
+  },
+  {
+    "description": "OpenStreetMap - Alps",
+    "name": "Talk-alps",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-alps"
+  },
+  {
+    "description": "OpenStreetMap Argentina",
+    "name": "Talk-ar",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-ar"
+  },
+  {
+    "description": "OpenStreetMap AT",
+    "name": "Talk-at",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-at"
+  },
+  {
+    "description": "place for Aussie mappers to chat",
+    "name": "Talk-au",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-au"
+  },
+  {
+    "description": "Discussion on topics for three small baltic states - Estonia, Latvia, Lithuania",
+    "name": "Talk-baltics",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-baltics"
+  },
+  {
+    "description": "OpenStreetMap Bangledesh",
+    "name": "Talk-bd",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-bd"
+  },
+  {
+    "description": "OpenStreetMap Belgium",
+    "name": "Talk-be",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-be"
+  },
+  {
+    "description": "OpenStreetMap Burkina Faso",
+    "name": "Talk-bf",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-bf"
+  },
+  {
+    "description": "OpenStreetMap Burundi",
+    "name": "Talk-bi",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-bi"
+  },
+  {
+    "description": "Openstreetmap Bénin",
+    "name": "Talk-bj",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-bj"
+  },
+  {
+    "description": "OpenStreetMap Belarus",
+    "name": "Talk-blr",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-blr"
+  },
+  {
+    "description": "OpenStreetMap Bolivia",
+    "name": "Talk-bo",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-bo"
+  },
+  {
+    "description": "OpenStreetMap no Brasil",
+    "name": "Talk-br",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-br"
+  },
+  {
+    "description": "OSM Canada Talk",
+    "name": "Talk-ca",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-ca"
+  },
+  {
+    "description": "OpenStreetMap Caribbean",
+    "name": "Talk-carib",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-carib"
+  },
+  {
+    "description": "OpenStreetMap in catalan",
+    "name": "Talk-cat",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-cat"
+  },
+  {
+    "description": "OpenStreetMap Democratic Republic of the Congo, mostly in French - Discussions sur OSM en RDC",
+    "name": "Talk-cd",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-cd"
+  },
+  {
+    "description": "Liste de discussion sur OpenStreetMap en République Centrafricaine",
+    "name": "Talk-cf",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-cf"
+  },
+  {
+    "description": "OpenStreetMap Cote D'Ivoire(www.Openstreetmap.ci)",
+    "name": "Talk-CI",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-ci"
+  },
+  {
+    "description": "OpenStreetMap Chile",
+    "name": "Talk-cl",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-cl"
+  },
+  {
+    "description": "OpenStreetMap Cameroun",
+    "name": "Talk-cm",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-cm"
+  },
+  {
+    "description": "OpenStreetMap China",
+    "name": "Talk-cn",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-cn"
+  },
+  {
+    "description": "OpenStreetMap Colombia",
+    "name": "Talk-co",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-co"
+  },
+  {
+    "description": "OpenStreetMap Costa Rica",
+    "name": "Talk-cr",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-cr"
+  },
+  {
+    "description": "OpenStreetMap Cuba",
+    "name": "Talk-cu",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-cu"
+  },
+  {
+    "description": "OpenStreetMap Czech Republic",
+    "name": "Talk-cz",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-cz"
+  },
+  {
+    "description": "Openstreetmap allgemeines in Deutsch",
+    "name": "Talk-de",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-de"
+  },
+  {
+    "description": "OpenStreetMap Denmark",
+    "name": "Talk-dk",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-dk"
+  },
+  {
+    "description": "Discusión sobre Cartografía de OSM en la República Dominicana. -- Discussion on OSM mapping in Haiti.",
+    "name": "Talk-do",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-do"
+  },
+  {
+    "description": "OpenStreetMap Ecuador",
+    "name": "Talk-ec",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-ec"
+  },
+  {
+    "description": "OpenStreetMap Estonia",
+    "name": "Talk-ee",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-ee"
+  },
+  {
+    "description": "Discusión en Español de OpenStreetMap",
+    "name": "Talk-es",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-es"
+  },
+  {
+    "description": "General discussion for users in Ethiopia",
+    "name": "Talk-ET",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-et"
+  },
+  {
+    "description": "OSM-mapping Finland",
+    "name": "talk-fi",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-fi"
+  },
+  {
+    "description": "Discussions sur OSM en français",
+    "name": "Talk-fr",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-fr"
+  },
+  {
+    "description": "This list concerns OSM users working on Brittany (BzH))",
+    "name": "Talk-fr-bzh",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-fr-bzh"
+  },
+  {
+    "description": "General discussion for users in Great Britain",
+    "name": "Talk-GB",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-gb"
+  },
+  {
+    "description": "UK regional talk list for Greater London",
+    "name": "Talk-gb-london",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-gb-london"
+  },
+  {
+    "description": "Mapping discussions for East Anglia (UK)",
+    "name": "Talk-gb-midanglia",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-gb-midanglia"
+  },
+  {
+    "description": "Oxford, Oxfordshire and the Cotswolds",
+    "name": "Talk-gb-oxoncotswolds",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-gb-oxoncotswolds"
+  },
+  {
+    "description": "OpenStreetMap UK regional talk list for the North of England",
+    "name": "Talk-gb-thenorth",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-gb-thenorth"
+  },
+  {
+    "description": "UK regional list for the West Midlands",
+    "name": "Talk-gb-westmidlands",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-gb-westmidlands"
+  },
+  {
+    "description": "OpenStreetMap Georgia / Abkhazia / South Ossetia",
+    "name": "talk-ge",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-ge"
+  },
+  {
+    "description": "OpenStreetMap Ghana",
+    "name": "Talk-gh",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-gh"
+  },
+  {
+    "description": "OpenStreetMap Greece - Ελληνική Ομάδα OSM",
+    "name": "Talk-gr",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-gr"
+  },
+  {
+    "description": "OpenStreetMap Honduras",
+    "name": "Talk-hn",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-hn"
+  },
+  {
+    "description": "OpenStreetMap Croatia",
+    "name": "Talk-hr",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-hr"
+  },
+  {
+    "description": "Discussion on/sur OSM mapping Haiti.",
+    "name": "Talk-ht",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-ht"
+  },
+  {
+    "description": "Diskusi OpenStreetMap dalam Bahasa Indonesia",
+    "name": "Talk-id",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-id"
+  },
+  {
+    "description": "Discussion of OpenStreetMap in Ireland",
+    "name": "Talk-ie",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-ie"
+  },
+  {
+    "description": "<em>[no description available]</em>",
+    "name": "Talk-il",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-il"
+  },
+  {
+    "description": "OpenStreetMap in India",
+    "name": "Talk-in",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-in"
+  },
+  {
+    "description": "Iran Discussions in OpenStreetMap ",
+    "name": "Talk-ir",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-ir"
+  },
+  {
+    "description": "OpenStreetMap in Iceland",
+    "name": "Talk-is",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-is"
+  },
+  {
+    "description": "openstreetmap list - italiano",
+    "name": "Talk-it",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-it"
+  },
+  {
+    "description": "OpenStreetMap Italy regional talk list for Basilicata and Puglia - Lista regionale della Basilicata e della Puglia",
+    "name": "Talk-it-appulo-lucana",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-it-appulo-lucana"
+  },
+  {
+    "description": "OpenStreetMap Italy bicycle talk - Lista italiana per discutere di elementi legati alla bicicletta",
+    "name": "Talk-it-bici",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-it-bici"
+  },
+  {
+    "description": "OpenStreetMap Italy regional talk list for Friuli Venezia Giulia - Lista regionale del Friuli Venezia Giulia",
+    "name": "Talk-it-fvg",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-it-fvg"
+  },
+  {
+    "description": "OpenStreetMap Italy regional talk list for Lazio - Lista regionale del Lazio",
+    "name": "Talk-it-lazio",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-it-lazio"
+  },
+  {
+    "description": "OpenStreetMap Italy regional talk list for Liguria - Lista regionale del Liguria",
+    "name": "Talk-it-liguria",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-it-liguria"
+  },
+  {
+    "description": "OpenStreetMap Italy regional talk list for Marche - Lista regionale delle Marche",
+    "name": "Talk-it-marche",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-it-marche"
+  },
+  {
+    "description": "OpenStreetMap Italy regional talk list for Piemonte - Lista regionale del Piemonte",
+    "name": "Talk-it-piemonte",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-it-piemonte"
+  },
+  {
+    "description": "OpenStreetMap Italy regional talk list for Sardinia - Lista regionale della Sardegna",
+    "name": "Talk-it-sardinia",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-it-sardinia"
+  },
+  {
+    "description": "OpenStreetMap Italy regional talk list for Sicily - Lista regionale della Sicilia",
+    "name": "Talk-it-sicilia",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-it-sicilia"
+  },
+  {
+    "description": "OpenStreetMap Italy regional talk list for South Tyrol - Lista regionale dell' Alto Adige - Regionale Mailingliste für Südtirol",
+    "name": "Talk-it-southtyrol",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-it-southtyrol"
+  },
+  {
+    "description": "OpenStreetMap Italy regional talk list for Trentino - Lista regionale del Trentino",
+    "name": "Talk-it-trentino",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-it-trentino"
+  },
+  {
+    "description": "OpenStreetMap Japanese talk",
+    "name": "Talk-ja",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-ja"
+  },
+  {
+    "description": "OpenStreetMap Kenya",
+    "name": "Talk-ke",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-ke"
+  },
+  {
+    "description": "OpenStreetMap Kyrgyzstan",
+    "name": "Talk-kg",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-kg"
+  },
+  {
+    "description": "OpenStreetMap Korea",
+    "name": "Talk-ko",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-ko"
+  },
+  {
+    "description": "OpenStreetMap Kosovo",
+    "name": "Talk-kosovo",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-kosovo"
+  },
+  {
+    "description": "OpenStreetMap Latinoamérica",
+    "name": "talk-latam",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-latam"
+  },
+  {
+    "description": "OSM Lebanon discussion list",
+    "name": "Talk-lb",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-lb"
+  },
+  {
+    "description": "OpenStreetMap Sri Lanka",
+    "name": "Talk-lk",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-lk"
+  },
+  {
+    "description": "Diskusijos apie OSM Lietuvoje",
+    "name": "Talk-lt",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-lt"
+  },
+  {
+    "description": "OpenStreetMap Luxembourg",
+    "name": "talk-lu",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-lu"
+  },
+  {
+    "description": "Openstreetmap.org Latvia project talk.",
+    "name": "Talk-lv",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-lv"
+  },
+  {
+    "description": "OpenStreetMap Morocco regional talk list / Liste de discussions des contributeurs d'OSM au Maroc",
+    "name": "Talk-ma",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-ma"
+  },
+  {
+    "description": "OpenStreetMap Madagasikara ",
+    "name": "Talk-mg",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-mg"
+  },
+  {
+    "description": "Liste de discussion établie pour coordonner les activités du projet OpenStreetMap (OSM) au Mali",
+    "name": "Talk-ml",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-ml"
+  },
+  {
+    "description": "OSM in Myanmar",
+    "name": "Talk-mm",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-mm"
+  },
+  {
+    "description": "/ &#1053;&#1101;&#1101;&#1083;&#1090;&#1090;&#1101;&#1081; &#1043;&#1091;&#1076;&#1072;&#1084;&#1078; &#1043;&#1072;&#1079;&#1088;&#1099;&#1085; &#1047;&#1091;&#1088;&#1072;&#1075;/&#1053;&#1043;&#1043;&#1047;/ - &#1052;&#1086;&#1085;&#1075;&#1086;&#1083; &#1085;&#1080;&#1081;&#1075;&#1101;&#1084;&#1083;&#1101;&#1075;/ : OpenStreetMap - Mongolia Community",
+    "name": "Talk-mn",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-mn"
+  },
+  {
+    "description": "OpenStreetMap in Malawi",
+    "name": "Talk-mw",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-mw"
+  },
+  {
+    "description": "<em>[no description available]</em>",
+    "name": "Talk-mx",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-mx"
+  },
+  {
+    "description": "Malaysia specific topics and discussion",
+    "name": "Talk-my",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-my"
+  },
+  {
+    "description": "Discussions sur OSM en Nouvelle-Calédonie",
+    "name": "Talk-nc",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-nc"
+  },
+  {
+    "description": "<em>[no description available]</em>",
+    "name": "Talk-ne",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-ne"
+  },
+  {
+    "description": "OpenStreetMap Nigeria",
+    "name": "Talk-ng",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-ng"
+  },
+  {
+    "description": "OpenStreetMap Nicaragua",
+    "name": "Talk-ni",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-ni"
+  },
+  {
+    "description": "OpenStreetMap NL discussion list",
+    "name": "Talk-nl",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-nl"
+  },
+  {
+    "description": "OpenStreetMap Community in Nepal",
+    "name": "Talk-np",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-np"
+  },
+  {
+    "description": "Lista de dialogo sobre OpenStreetMaps en el Perú",
+    "name": "Talk-pe",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-pe"
+  },
+  {
+    "description": "OpenStreetMap Philippines mailing list",
+    "name": "talk-ph",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-ph"
+  },
+  {
+    "description": "OSM Poland",
+    "name": "Talk-pl",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-pl"
+  },
+  {
+    "description": "OpenStreetMap Puerto Rico",
+    "name": "talk-pr",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-pr"
+  },
+  {
+    "description": "OSM in Palestine",
+    "name": "Talk-ps",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-ps"
+  },
+  {
+    "description": "OSM Portugal",
+    "name": "Talk-pt",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-pt"
+  },
+  {
+    "description": "OpenStreetMap Paraguay",
+    "name": "Talk-py",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-py"
+  },
+  {
+    "description": "OSM Romania",
+    "name": "Talk-ro",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-ro"
+  },
+  {
+    "description": "OpenStreetMap Serbia",
+    "name": "Talk-rs",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-rs"
+  },
+  {
+    "description": "OpenStreetMap - Russian community",
+    "name": "Talk-ru",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-ru"
+  },
+  {
+    "description": "<em>[no description available]</em>",
+    "name": "Talk-sc",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-sc"
+  },
+  {
+    "description": "General discussions for the OpenStreetMap community in Scotland.",
+    "name": "Talk-scotland",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-scotland"
+  },
+  {
+    "description": "OpenStreetMap Sverige mailinglista",
+    "name": "Talk-se",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-se"
+  },
+  {
+    "description": "OpenStreetMap v Sloveniji",
+    "name": "Talk-si",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-si"
+  },
+  {
+    "description": "OpenStreetMap Sénégal",
+    "name": "Talk-sn",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-sn"
+  },
+  {
+    "description": "OpenStreetMap Syria, &#1575;&#1604;&#1602;&#1575;&#1574;&#1605;&#1577; &#1575;&#1604;&#1576;&#1585;&#1610;&#1583;&#1610;&#1577; &#1604;&#1605;&#1606;&#1575;&#1602;&#1588;&#1577; &#1582;&#1585;&#1575;&#1574;&#1591; &#1575;&#1604;&#1588;&#1575;&#1585;&#1593; &#1575;&#1604;&#1605;&#1601;&#1578;&#1608;&#1581;&#1577; &#1601;&#1610; &#1587;&#1608;&#1585;&#1610;&#1575;",
+    "name": "Talk-sy",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-sy"
+  },
+  {
+    "description": "OpenStreetMap Tchad - Liste de discussion",
+    "name": "Talk-td",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-td"
+  },
+  {
+    "description": "OpenStreetMap Togo - Liste de discussion",
+    "name": "Talk-tg",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-tg"
+  },
+  {
+    "description": "OpenStreetMap Tunisia - Liste de discussion Tunisienne du projet OSM",
+    "name": "Talk-tn",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-tn"
+  },
+  {
+    "description": "T&#252;rkce sohbetler icin",
+    "name": "Talk-tr",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-tr"
+  },
+  {
+    "description": "Public transport/transit/shared taxi related topics",
+    "name": "Talk-transit",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-transit"
+  },
+  {
+    "description": "Open Street Map Taiwan",
+    "name": "Talk-TW",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-tw"
+  },
+  {
+    "description": "OpenStreetMap Tanzania",
+    "name": "Talk-tz",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-tz"
+  },
+  {
+    "description": "OpenStreetMap Uganda",
+    "name": "Talk-ug",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-ug"
+  },
+  {
+    "description": "OpenStreetMap USA",
+    "name": "Talk-us",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-us"
+  },
+  {
+    "description": "Topics specific to Massachusetts",
+    "name": "Talk-us-massachusetts",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-us-massachusetts"
+  },
+  {
+    "description": "For discussions of OSM and mapping in NYS",
+    "name": "Talk-us-newyork",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-us-newyork"
+  },
+  {
+    "description": "US National Parks",
+    "name": "Talk-us-nps",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-us-nps"
+  },
+  {
+    "description": "OpenStreetMap for the Puget Sound region, Washington State",
+    "name": "Talk-us-pugetsound",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-us-pugetsound"
+  },
+  {
+    "description": "Lista para coordinar esfuerzos respecto a OpenStreetMap en Uruguay",
+    "name": "Talk-uy",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-uy"
+  },
+  {
+    "description": "OpenStreetMap Venezuela",
+    "name": "Talk-ve",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-ve"
+  },
+  {
+    "description": "OpenStreetMap Việt Nam. Danh sách thư về mọi thứ liên quan đến OSM ở Việt Nam hay bằng tiếng Việt.",
+    "name": "Talk-vi",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-vi"
+  },
+  {
+    "description": "General discussion for South African users",
+    "name": "Talk-ZA",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-za"
+  },
+  {
+    "description": "OpenStreetMap Zambia",
+    "name": "Talk-zm",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-zm"
+  },
+  {
+    "description": "<em>[no description available]</em>",
+    "name": "Talk-ZW",
+    "url": "https://lists.openstreetmap.org/listinfo/talk-zw"
+  },
+  {
+    "description": "<em>[no description available]</em>",
+    "name": "TeachOSM",
+    "url": "https://lists.openstreetmap.org/listinfo/teachosm"
+  },
+  {
+    "description": "Discussion of tile serving stacks and its development",
+    "name": "Tile-serving",
+    "url": "https://lists.openstreetmap.org/listinfo/tile-serving"
+  },
+  {
+    "description": "Discussions about uMap project",
+    "name": "Umap",
+    "url": "https://lists.openstreetmap.org/listinfo/umap"
+  },
+  {
+    "description": "List used for OSMF voting (NO LONGER USED)",
+    "name": "vote",
+    "url": "https://lists.openstreetmap.org/listinfo/vote"
+  },
+  {
+    "description": "Discussion list for the Welcome Working Group members and interested third parties",
+    "name": "WelcomeWG",
+    "url": "https://lists.openstreetmap.org/listinfo/welcomewg"
+  },
+  {
+    "direct": false,
+    "name": "OpenStreetMap.org diaries",
+    "url": "https://www.openstreetmap.org/diary"
+  },
+  {
+    "direct": false,
+    "name": "OpenStreetMap.org diaries",
+    "url": "https://www.openstreetmap.org/diary"
+  },
+  {
+    "direct": false,
+    "name": "OpenStreetMap.org diaries",
+    "url": "https://www.openstreetmap.org/diary"
+  }
+]

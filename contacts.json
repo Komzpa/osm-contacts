@@ -1104,17 +1104,17 @@
   },
   {
     "direct": false,
-    "name": "OpenStreetMap.org diaries",
-    "url": "https://www.openstreetmap.org/diary"
+    "name": "Russian OSM Telegram",
+    "url": "https://telegram.me/ruosm"
   },
   {
     "direct": false,
-    "name": "OpenStreetMap.org diaries",
-    "url": "https://www.openstreetmap.org/diary"
+    "name": "Belarusian byGIS Telegram group",
+    "url": "https://telegram.me/bygis"
   },
   {
     "direct": false,
-    "name": "OpenStreetMap.org diaries",
-    "url": "https://www.openstreetmap.org/diary"
+    "name": "Russian OSM Forum discussion Telegram",
+    "url": "https://telegram.me/ruosm_forum"
   }
 ]

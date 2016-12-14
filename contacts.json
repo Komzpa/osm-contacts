@@ -1123,5 +1123,12 @@
     "language": "ru",
     "name": "Russian OSM Forum discussion Telegram",
     "url": "https://telegram.me/ruosm_forum"
+  },
+  {
+    "direct": false,
+    "language": "en",
+    "name": "#openstreetmap on The Spatial Community Slack",
+    "register_url": "http://thespatialcommunity.com/",
+    "url": "https://thespatialcommunity.slack.com/#openstreetmap"
   }
 ]

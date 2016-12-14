@@ -22,8 +22,15 @@
   },
   {
     "language": "en",
+    "name": "OpenStreetMap IRC chat",
+    "url": "irc://irc.oftc.net/#osm-dev",
+    "users_online": 254
+  },
+  {
+    "language": "en",
     "name": "More technical, developer chat",
-    "url": "irc://irc.oftc.net/#osm-dev"
+    "url": "irc://irc.oftc.net/#osm-dev",
+    "users_online": 94
   },
   {
     "name": "Humanitarian OpenStreetMap Team chat",
@@ -1129,6 +1136,7 @@
     "language": "en",
     "name": "#openstreetmap on The Spatial Community Slack",
     "register_url": "http://thespatialcommunity.com/",
-    "url": "https://thespatialcommunity.slack.com/#openstreetmap"
+    "url": "https://thespatialcommunity.slack.com/#openstreetmap",
+    "users_total": 184
   }
 ]

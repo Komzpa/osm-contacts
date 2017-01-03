@@ -1116,7 +1116,9 @@
   {
     "direct": false,
     "name": "Russian OSM Telegram",
-    "url": "https://telegram.me/ruosm"
+    "url": "https://telegram.me/ruosm",
+    "log_url": "http://tile.osmz.ru/telegram/formatted/html/OpenStreetMap_RU-0.html",
+    "users_total": 165
   },
   {
     "country": "by",

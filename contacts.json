@@ -1114,6 +1114,11 @@
     "url": "https://lists.openstreetmap.org/listinfo/welcomewg"
   },
   {
+    "description": "Discussion list for users and developers of OpenRailwayMap and railway-related stuff of OpenStreetMap",
+    "name": "Openrailwaymap",
+    "url": "http://lists.openrailwaymap.org/listinfo/openrailwaymap"
+  },
+  {
     "direct": false,
     "name": "Russian OSM Telegram",
     "url": "https://telegram.me/ruosm",
